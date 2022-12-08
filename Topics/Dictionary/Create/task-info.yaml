@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # create a dict here
+    # and print it
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9143#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 01 Dec 2022 10:27:09 UTC"
+record: -1

@@ -1,0 +1,28 @@
+content:
+- Bytes basics
+- Creating bytes
+- How to read the documentation
+- Argparse module
+- Files in Python
+- Reading files
+- Context manager
+- Socket module
+- List comprehension
+- Custom generators
+- Lambda functions
+- Iterators
+- Map and filter
+- Itertools module
+- Dictionary
+- Dictionary methods
+- Slicing
+- Identity testing
+- Objects in Python
+- Operations with dictionary
+- Default arguments
+- Exceptions
+- Built-in exceptions
+- Exception handling
+- Args
+- Kwargs
+- Time module

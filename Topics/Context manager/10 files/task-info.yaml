@@ -1,0 +1,42 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# write your code here'
+  learner_created: false
+- name: text1.txt
+  visible: true
+  learner_created: true
+- name: text4.txt
+  visible: true
+  learner_created: true
+- name: text2.txt
+  visible: true
+  learner_created: true
+- name: text6.txt
+  visible: true
+  learner_created: true
+- name: text8.txt
+  visible: true
+  learner_created: true
+- name: text10.txt
+  visible: true
+  learner_created: true
+- name: text5.txt
+  visible: true
+  learner_created: true
+- name: text3.txt
+  visible: true
+  learner_created: true
+- name: text7.txt
+  visible: true
+  learner_created: true
+- name: text9.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8710#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 28 Nov 2022 10:33:59 UTC"
+record: -1
